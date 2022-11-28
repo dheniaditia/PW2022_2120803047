@@ -7,5 +7,6 @@ function pangkat ($angka, $pangkat) {
     }
     return $total;
 }
-echo pangkat(5,4);
+echo "5 Pangkat 4" . " = " . pangkat(5,4);
+
 ?>
