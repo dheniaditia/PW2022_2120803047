@@ -47,9 +47,9 @@ if( ubah($_POST) > 0 ) {
         value="<?= $mhs["nama"]; ?>">
       </li>
       <li>
-        <label for="nrp">nrp : </label>
-        <input type="text" name="nrp" id="nrp" required
-        value="<?= $mhs["nrp"]; ?>">
+        <label for="nim">nim : </label>
+        <input type="text" name="nim" id="nim" required
+        value="<?= $mhs["nim"]; ?>">
       </li>
       <li>
       <label for="email">email : </label>

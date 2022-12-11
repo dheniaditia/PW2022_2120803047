@@ -40,8 +40,8 @@ if( tambah($_POST) > 0 ) {
         <input type="text" name="nama" id="nama" required>
       </li>
       <li>
-        <label for="nrp">nrp : </label>
-        <input type="text" name="nrp" id="nrp" required>
+        <label for="nim">nim : </label>
+        <input type="text" name="nim" id="nim" required>
       </li>
       <li>
       <label for="email">email : </label>

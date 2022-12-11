@@ -48,7 +48,7 @@ placehorder="silahkan masukkan teks...." autocomplate="off">
   <td>
     <a href="ubah.php?id=<?= $row["id"]; ?>">ubah</a> |
     <a href="hapus.php?id=<?= $row["id"]; ?>" onclick="
-    return confirm('yakin?');">hapus</a>
+    return confirm('kamu nanyak mau keluar?');">hapus</a>
   </td>
   <td><img src="img/<?= $row["gambar"]; ?>" width="50"></td>
   <td><?= $row["nim"]; ?></td>
