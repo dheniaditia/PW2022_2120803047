@@ -1,0 +1,15 @@
+body{
+    background-image: url(img/mi.jpeg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size:cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(45, 13, 160);
+    
+}
